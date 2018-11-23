@@ -1,2 +1,0 @@
-# Teste
-Created with CodeSandbox
